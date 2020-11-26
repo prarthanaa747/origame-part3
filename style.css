@@ -1,0 +1,67 @@
+body{
+ 
+    background-image: url("https://i.pinimg.com/originals/c1/09/f1/c109f147bee8fe3c89f10304b073ff40.jpg");
+    background-size:2000px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    }
+h1{
+   
+    color:rgb(0, 14, 14) ;
+    margin-left:150px;
+    margin-bottom:40px;
+    font-size:100px;
+    font-family:jokerman;
+       }
+h2{
+    margin-left:480px;
+    font-family:Franklin Gothic;
+}
+a{
+    
+    color:rgb(7, 0, 4) ;
+    margin-left:360px;
+    margin-top:10px;
+    font-size:40px;
+       }
+       
+.animals{
+margin-left:150px;
+margin-top:80px;
+
+           }
+.camelfacts{
+    margin-left:370px;
+    margin-bottom:220px;
+    font-size:20px;
+    font-family:fantasy;
+    padding:30px;
+}
+.camel{
+    margin-left:-200px;
+    margin-top:80px;
+
+               }
+.header{
+    
+    background-image: url("https://files.123freevectors.com/wp-content/original/122768-pastel-blue-distressed-watercolour-background-image.jpg");
+    background-size:1500px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    padding:30px;
+}
+.border { 
+    border-width: 25px;
+    border-color: black;
+    border-style: solid; 
+}
+
+
+
+
+
+
+    
+        
